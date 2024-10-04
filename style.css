@@ -1,6 +1,69 @@
 .form{
-    background: url(image/dep.jpg) no-repeat fixed;background-size: cover;padding: 500px;
+    background: url(image/dep.jpg) no-repeat fixed;background-size: cover;padding: 300px;
 }
 .form .fream{
     margin: 150px;
 }
+button{
+    background-color: aquamarine;
+}
+.pg{
+   margin: 250px;
+   padding-left: 10px;
+}
+.h4{
+    margin: 10px;
+    padding-left: 100px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    margin-top: 00;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100;
+}
+.h4 .ff{
+    margin: 100px;
+    padding-left: 00px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+    margin-top: 00px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100;
+    font-size: 50px;
+
+}
+.h4 .pp{
+    margin: 100px;
+    padding-left: 00px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+    margin-top: 00px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100;
+    font-size: 50px;
+}
+.h4 .mm{
+    margin: 100px;
+    padding-left: 00px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+    margin-top: 00px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100;
+    font-size: 50px;
+
+}
+.h4 .dd{
+    font-size: 50px;
+}
+.h4 .uu{
+    font-size: 50px;
+}
+
