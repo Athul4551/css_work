@@ -12,13 +12,13 @@ button{
    padding-left: 10px;
 }
 .h4{
-    margin: 10px;
+    margin: 00px;
     padding-left: 100px;
     padding-top: 00px;
-    padding-bottom: 100px;
+    padding-bottom: 00px;
     padding-right: 100px;
     margin-top: 00;
-    margin-bottom: 100px;
+    margin-bottom: 00px;
     margin-left: 100px;
     margin-right: 100;
 }
@@ -29,7 +29,7 @@ button{
     padding-bottom: 100px;
     padding-right: 50px;
     margin-top: 00px;
-    margin-bottom: 100px;
+    margin-bottom: 00px;
     margin-left: 100px;
     margin-right: 100;
     font-size: 50px;
@@ -42,7 +42,7 @@ button{
     padding-bottom: 100px;
     padding-right: 50px;
     margin-top: 00px;
-    margin-bottom: 100px;
+    margin-bottom: 00px;
     margin-left: 100px;
     margin-right: 100;
     font-size: 50px;
@@ -54,7 +54,7 @@ button{
     padding-bottom: 100px;
     padding-right: 50px;
     margin-top: 00px;
-    margin-bottom: 100px;
+    margin-bottom: 00px;
     margin-left: 100px;
     margin-right: 100;
     font-size: 50px;
@@ -66,4 +66,84 @@ button{
 .h4 .uu{
     font-size: 50px;
 }
+.hh{
+    font-size: 30px;
+    margin: 00px;
+    padding-left: 200px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    margin-top: 00;
+    margin-bottom: 00px;
+    margin-left: 100px;
+    margin-right: 100;
+}
+/*.hh .size{
+    font-size: 20px;
+}
+.div1{
+    font-size: 20px;
+    margin: 00px;
+    padding-left: 200px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    margin-top: 00;
+    margin-bottom: 00px;
+    margin-left: 200px;
+    margin-right: 100;
 
+}*/
+/*.hh .size1{
+    font-size: 20px;
+    margin: 00px;
+    padding-left: 100px;
+    padding-top: 00px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    margin-top: 00;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100;
+}
+.h4 .size2{
+    font-size: 10px;
+
+}
+.h4 .size1{
+    font-size: 10px;
+}*/
+.btn{
+    margin: 00px;
+    padding-left: 200px;
+    padding-top: 00px;
+    padding-bottom: 00px;
+    padding-right: 100px;
+    margin-top: 00;
+    margin-bottom: 00px;
+    margin-left: 100px;
+    margin-right: 100;
+}
+.ss{
+    padding-left: 50px;
+}
+.ss1{
+    padding-left: 1200px;
+}
+.color{
+    padding-left: 150px;
+    padding-bottom: 00px;
+}
+.img{
+    /*border-color: black;*/
+    border-radius:50px;
+    border-width: 10px;
+    border-bottom: 10px;
+    border-left: 10px;
+ /*   border-style: dotted;*/
+    padding-left:800px; 
+    margin:00px;
+}
+.cls{
+    padding-top: 00x;
+}
