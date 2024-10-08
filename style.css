@@ -159,6 +159,7 @@ padding-left: 150px;
 .flex-container .bgdiv{
 flex: 30%;
 padding-left: 20px;
+color: green;
 }
 .flex{
     display: flex;
@@ -176,18 +177,24 @@ padding-left: 20px;
     border-radius: 400px;
 }
 .kdiv{
-    height: 200px;
-    width: 450px;
-    margin-left: 800px;
+    height: 600px;
+    width: 750px;
+    margin-left: 700px;
     padding: 20px 30px;
-    width: 28.99%;padding-right: 200px;border: 1px solid white;
+    width: 28.99%;padding-right: 400px;border: 1px solid white;
     border-radius: 10px;
     background-color: aliceblue;
     /* text-align: justify; */
+    align-items: end;
 }
 .flx{
     background: url(image/veg.jpg) no-repeat fixed;background-size: cover;padding: 300px;
+    display: flex;
+    flex-direction: row;
 }
 .pp1{
 width: 600px;
+}
+.sdiv{
+    flex: 49%;
 }
