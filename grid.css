@@ -1,0 +1,17 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap:10px
+}
+.master{
+    background-color: aqua;
+    margin-top: 10px;
+    padding-left: 10px;
+    width: 610px;
+    height: 400px;
+}
+.h1{
+text-align: center;
+    background-color: blueviolet;
+    padding: 2%;
+}

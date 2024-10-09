@@ -1,0 +1,11 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(4fr,1fr) ;
+    grid-template-rows: repeat(4fr,1fr);
+    height: 300px;
+    width: 300px;
+}
+.main .master{
+    background-color: blueviolet;
+    border-style: solid ;border-color: black;
+}
