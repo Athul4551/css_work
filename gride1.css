@@ -1,11 +1,37 @@
 .main{
     display: grid;
-    grid-template-columns: repeat(4fr,1fr) ;
-    grid-template-rows: repeat(4fr,1fr);
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
     height: 300px;
     width: 300px;
 }
-.main .master{
+.main div{
     background-color: blueviolet;
-    border-style: solid ;border-color: black;
+    border-style: solid ;border-color: rgb(233, 175, 245);
+    border-width: 5px;
 }
+.master1
+{
+grid-row-start: 1;
+grid-row-end: 3;
+}
+.master2
+{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+.master3
+{
+    grid-row-start: 2;
+    grid-row-end: 3;
+ }
+ .master4
+ {
+    grid-row-start: -3;
+    grid-row-end: -1;
+ }
+ .master5
+ {
+    grid-column-start: -4;
+    grid-column-end: -2;
+    }
