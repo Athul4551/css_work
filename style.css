@@ -210,8 +210,12 @@ width: 600px;
 }
 .sp{
     width: 300px;
+    margin: 15px;
 }
 .gdiv{
     display: flex;
     flex-direction: row;
+}
+.ss{
+    margin-top: 10px;
 }
